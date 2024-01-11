@@ -1,17 +1,17 @@
-## About Me
+## I'm currently...
 
-- 🌱 I'm currently learning scalable micro front-ends.
-- 💼 I'm working on Wix Hotels.
-- 🤝 I'm open to collaborations and contributions.
+1. 🌱 learning scalable micro front-ends,
+2. 💼 working on **Wix Hotels**, and
+3. 🤝 open to collaborations.
 
-## My Projects
+## I recently worked on
 
-1. [🛎️ HotelRunner](https://hotelrunner.com/): Top travel management app in the world.
-2. [🏨 Wix Hotels](https://www.wix.com/hotels/website): Hotel management system for Wix.
-3. [💞 Siberalem](https://www.siberalem.com): Top online dating app in Türkiye.
+1. 🛎️ [HotelRunner](https://hotelrunner.com): Top travel management app in the world.
+2. 🏨 [Wix Hotels](https://www.wix.com/hotels/website): Hotel management system tailored for Wix.
+3. 💞 [Siberalem](https://www.siberalem.com): Top online dating app in Türkiye.
 
-## Get in Touch
+## I share
 
-- ✏️ Regular Bytes: [Read my tiny engineer guide](https://regular-bytes.notion.site)
-- 👔 LinkedIn: [Let's connect](https://www.linkedin.com/in/furkanacaryes/)
-- 👨‍💻 Codesandbox: [Check out my playground](https://codesandbox.io/u/furkanacaryes)
+1. ✏️ Regular Bytes: [Read my tiny engineer guide](https://regular-bytes.notion.site)
+2. 👔 LinkedIn: [Let's connect](https://www.linkedin.com/in/furkanacaryes/)
+3. 👨‍💻 Codesandbox: [Check out my playground](https://codesandbox.io/u/furkanacaryes)
