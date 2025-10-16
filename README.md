@@ -1,7 +1,7 @@
 ## I'm currently...
 
 1. 🌱 learning scalable micro front-ends,
-2. 💼 working on **Wix Hotels**, and
+2. 💼 working as a freelance front-end developer, and
 3. 🤝 open to collaborations.
 
 ## I recently worked on
